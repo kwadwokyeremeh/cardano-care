@@ -1,0 +1,21 @@
+site_name: Cardano Care
+use_directory_urls: false
+
+nav:
+  - Overview: index.md
+  - Problem Statement: product_statement.md
+  - Solution: solution.md
+  - Relevant Experience: experience.md
+  - Detailed Plan: detailed_plan.md
+  - A Primer on Plastic Recycling: primer_on_plastics_recycling.md
+  - Problems of the recycling systems vs Cardano Care dApp solution: detailed_problem.md
+  - Purpose of the Project: purpose_of_project.md
+  - Team: team.md
+  - Road Map: roadmap.md
+  - KPIs: kpis.md
+  - Budget Breakdown: budget_breakdown.md
+  - Project Sustainability: project_sustainability.md
+  - Sustainable Development Goals: sdg.md
+  - Key Performance Indicators: kpi.md
+
+theme: material
