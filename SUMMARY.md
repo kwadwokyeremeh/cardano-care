@@ -3,7 +3,7 @@
 - [Product Statement](product_statement.md)
 - [Solution](solution.md)
 - [Detailed Plan](detailed_plan.md)
-- [A Primer on Plastic Recycling](primer_on_plastics_recycling)
+- [A Primer on Plastic Recycling](primer_on_plastics_recycling.md)
 - [Problems of the recycling systems vs Cardano Care Dapp solutions](detailed_problem.md)
 - [Purpose of the Project](purpose_of_project.md)
 - [Core Team](team.md)
