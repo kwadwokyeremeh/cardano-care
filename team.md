@@ -1,3 +1,3 @@
-## Core Team
+# Core Team
 
-Visit Wada at https://wadalliance.org
+Visit Wada at [_https://wadalliance.org_](https://wadalliance.org)__
