@@ -1,4 +1,4 @@
-## Problems of the recycling systems vs Cardano Care Dapp solutions
+## Problems of the recycling systems vs Cardano Recycling Dapp solutions
 
 
 ### Problem: Waste Separation

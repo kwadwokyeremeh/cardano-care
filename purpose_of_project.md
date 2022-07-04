@@ -1,6 +1,6 @@
 ## Purpose of the Project
 
-Cardano Care project seeks to serve the following purposes;
+Cardano Recycling Dapp project seeks to serve the following purposes;
 
 * Curb plastic pollution in the environment.
 * Educate and introduce many more people to the Cardano blockchain ecosystem.
