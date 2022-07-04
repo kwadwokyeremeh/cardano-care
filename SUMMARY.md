@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Product Statement](product\_statement.md)
+* [Problem Statement](product\_statement.md)
 * [Solution](solution.md)
-* [Why we chose Kumasi](why_we_chose_kumasi.md)
+* [Why we chose Kumasi](why\_we\_chose\_kumasi.md)
 * [Detailed Plan](detailed\_plan.md)
 * [A Primer on Plastic Recycling](primer\_on\_plastics\_recycling.md)
 * [Problems of the recycling systems vs Cardano Care Dapp solutions](detailed\_problem.md)

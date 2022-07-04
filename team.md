@@ -2,43 +2,53 @@
 
 This project is backed by a collaborative effort from a team with a wealth of environmental, cultural, and technical experience in the Cardano community. They are a diverse bunch united by the Promise of Cardano and a common goal of contributing to the satisfaction of SDG 1, 12, 13, and 14:
 
-Richmond Oppong: Richmond is a graphic designer with over 10 years of experience in logo design and marketing. He holds a Higher National Diploma in Graphic Design and Marketing from Takoradi Polytechnic, Takoradi-Ghana. Richmond is a blockchain enthusiast and is actively part of the Cardano project catalyst community. 
+**Richmond Oppong**:&#x20;
+
+_Richmond is a graphic designer with over 10 years of experience in logo design and marketing. He holds a Higher National Diploma in Graphic Design and Marketing from Takoradi Polytechnic, Takoradi-Ghana. Richmond is a blockchain enthusiast and is actively part of the Cardano project catalyst community._
 
 Role: Marketing and workshop organisation.
 
-Telegram: @Holiouz
+Telegram: [@Holiouz](https://t.me/Holiouz)
 
-Email: richmond@wada.org
+Email: [richmond@wada.org](mailto:richmond@wada.org)
 
-Daniel D. Lezu: Daniel is a front-end developer with more than five years of experience. He holds a Bachelor of Science in Information Technology from Bluecrest College and a Professional Diploma in Software Engineering from IPMC Ghana. He is passionate about cloud computing, cyber security, and decentralized applications. He was a Community Advisor in Catalyst Fund 7 and the Catalyst Challenge Team Lead for ‘Scale-UP Cardano’s Community Hubs’ challenge setting for Fund 8. He envisioned using Blockchain Technology to bridge the gap between human capabilities and machine learning (AI & IoT). He is currently involved in the Plutus Pioneer program.
+**Daniel D. Lezu**:&#x20;
+
+_Daniel is a front-end developer with more than five years of experience. He holds a Bachelor of Science in Information Technology from Bluecrest College and a Professional Diploma in Software Engineering from IPMC Ghana. He is passionate about cloud computing, cyber security, and decentralized applications. He was a Community Advisor in Catalyst Fund 7 and the Catalyst Challenge Team Lead for ‘Scale-UP Cardano’s Community Hubs’ challenge setting for Fund 8. He envisioned using Blockchain Technology to bridge the gap between human capabilities and machine learning (AI & IoT). He is currently involved in the Plutus Pioneer program._
 
 Role: Front-end Development.
 
-Telegram: @ddlezu
+Telegram: [@ddlezu](https://t.me/ddlezu)
 
-Email: daniel@wada.org
+Email: [daniel@wada.org](mailto:daniel@wada.org)
 
-Gertrude Adotey: Gertrude is a student offering her BSc. in Information Technology at Ghana Communication Technology University. She has a colossal knowledge of events management (light touch training centre). She is part of a Blockchain community. Gertrude has worked with McBranon Travels doing entries and is currently exploring other useful fields which could aid in combating climate change and its effects. 
+**Gertrude Adotey**:
+
+_Gertrude is a student offering her BSc. in Information Technology at Ghana Communication Technology University. She has a colossal knowledge of events management (light touch training centre). She is part of a Blockchain community. Gertrude has worked with McBranon Travels doing entries and is currently exploring other useful fields which could aid in combating climate change and its effects._
 
 Role: Marketing and workshop organization.
 
-Telegram: @MsTrudy
+_Telegram:_ [_@MsTrudy_](https://t.me/MsTrudy)__
 
-Email: gertrudeariche@gmail.com
+_Email:_ [_gertrudeariche@gmail.com_](mailto:gertrudeariche@gmail.com)__
 
-Dabuo Bismark: Bismark is a biochemist with vast experience in diseases, and the biochemical components of substances ( living and non-living). He is well endowed with knowledge and leadership experience, both national and international. Bismark has been involved with several programs, ranging from health and wellness to environmental problems. Bismark holds a BSc in biochemistry and chemistry with a biochemistry major. He is currently working as a researcher at the Noguchi Memorial Institute of Medical Research (department of Clinical Pathology). as well as exploring new areas. He also graduated from the United Nations Millennium Fellowship class of 2021, with an interest in educating, empowering, and creating awareness in communities that will help improve the lives of individuals.
+**Dabuo Bismark:**&#x20;
+
+_Bismark is a biochemist with vast experience in diseases, and the biochemical components of substances ( living and non-living). He is well endowed with knowledge and leadership experience, both national and international. Bismark has been involved with several programs, ranging from health and wellness to environmental problems. Bismark holds a BSc in biochemistry and chemistry with a biochemistry major. He is currently working as a researcher at the Noguchi Memorial Institute of Medical Research (department of Clinical Pathology). as well as exploring new areas. He also graduated from the United Nations Millennium Fellowship class of 2021, with an interest in educating, empowering, and creating awareness in communities that will help improve the lives of individuals._
 
 Role: Education and research.
 
-Telegram: @bdabuo
+_Telegram: @bdabuo_
 
-Email: bismarkdabuo98@gmail.com
+_Email: bismarkdabuo98@gmail.com_
 
-Angela Okai-Nartey: Angela is a digital marketer. She holds a Digital Marketing Certificate from Google Digital Workshop and a bachelor's degree in Information Technology from Ghana Communication Technology University. Angela is a blockchain enthusiast, She has been a community advisor since Fund 6. A challenge team member for Scale-UP Cardano Community Hubs in Fund 8.
+**Angela Okai-Nartey**&#x20;
+
+Angela is a digital marketer. She holds a Digital Marketing Certificate from Google Digital Workshop and a bachelor's degree in Information Technology from Ghana Communication Technology University. Angela is a blockchain enthusiast, She has been a community advisor since Fund 6. A challenge team member for Scale-UP Cardano Community Hubs in Fund 8.
 
 Role: Marketing and workshop organization.
 
-Telegram: @Maame_Akua_1
+Telegram: @Maame\_Akua\_1
 
 Email: angela.nartey@wada.org
 
@@ -50,11 +60,11 @@ Telegram: @AfiaAOwusu
 
 Email: afia@wada.org
 
-Nana Safo: Wada University Ambassador-Ghana, Community Ambassador to Landano B.V (Catalyst funded project), Active Cardano and Catalyst Community Member since Fund 4, Time With Nana Safo [workshop for educating Ghanaians who are new to the Cardano community] host, BSc. Information Technology and a passionate environmental care advocate and teacher.
+Nana Safo: Wada University Ambassador-Ghana, Community Ambassador to Landano B.V (Catalyst funded project), Active Cardano and Catalyst Community Member since Fund 4, Time With Nana Safo \[workshop for educating Ghanaians who are new to the Cardano community] host, BSc. Information Technology and a passionate environmental care advocate and teacher.
 
 Role: Project lead and management.
 
-Telegram: @Nana_Safo_01
+Telegram: @Nana\_Safo\_01
 
 Email: nana.safo@wada.org
 
@@ -62,15 +72,15 @@ Christopher Aikins: Christopher is a Senior Accounting Assistant with the Volta 
 
 Role: Auditing and administration.
 
-Telegram: @chris_aikins
+Telegram: @chris\_aikins
 
 Mail: chrisaiks@gmail.com
 
-Nathaniel Dwamena: He has a B.A (Hons) in Geography and Rural Development. He is a researcher and has more than seven years of experience in think tank development, non-profit management, and business development consulting. He was part of the team contracted by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ Ghana) to conduct a study on red tape for doing business in Ghana. He successfully completed think tank training in Nigeria and project management training in Kenya, which aided in his successful graduation from the Atlas Leadership Academy, Atlas Network (USA). He is a member of Wada, and Fund 7, and a community advisor. 
+Nathaniel Dwamena: He has a B.A (Hons) in Geography and Rural Development. He is a researcher and has more than seven years of experience in think tank development, non-profit management, and business development consulting. He was part of the team contracted by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ Ghana) to conduct a study on red tape for doing business in Ghana. He successfully completed think tank training in Nigeria and project management training in Kenya, which aided in his successful graduation from the Atlas Leadership Academy, Atlas Network (USA). He is a member of Wada, and Fund 7, and a community advisor.
 
 Role: Education and research.
 
-Telegram: @Nana_Dwamena
+Telegram: @Nana\_Dwamena
 
 Email: natdwamena@gmail.com
 
@@ -90,5 +100,4 @@ Telegram: @epaikins
 
 Email: eugenepooooaikinsdev@gmail.com
 
-
-Visit Wada at [_https://wadalliance.org_](https://wadalliance.org)__
+Visit Wada at [_https://wadalliance.org_](https://wadalliance.org)\_\_
