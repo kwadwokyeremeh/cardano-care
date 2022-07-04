@@ -2,6 +2,7 @@
 
 - [Product Statement](product_statement.md)
 - [Solution](solution.md)
+- [Why we chose Kumasi](why_we_chose_kumasi.md)
 - [Detailed Plan](detailed_plan.md)
 - [A Primer on Plastic Recycling](primer_on_plastics_recycling.md)
 - [Problems of the recycling systems vs Cardano Care Dapp solutions](detailed_problem.md)

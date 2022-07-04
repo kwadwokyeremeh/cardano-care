@@ -1,0 +1,3 @@
+#### Why did we choose Ghana (Kumasi) for the pilot program?
+
+Our project partner, Premier Waste Recycling Agency, is situated in that region and has been conducting community buy-backs of plastic waste over the past 5 years, which gives us the opportunity to connect some of these institutions located there to our platform easily. Because of their reputation and good work, some institutions are willing to embark on the pilot program in the region, and this puts us in a good position to successfully execute the project.

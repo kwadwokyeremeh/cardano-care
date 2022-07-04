@@ -22,6 +22,3 @@ Organize educational outreach for the populace of Accra to educate them on the n
 Citizens, institutions and recycling companies who are stakeholders have problems adopting blockchain. Meanwhile, blockchain is nothing bad!
 ### Solution: Smart contracts
 
-### Problem: Digital Identification of verified recycling companies and households
-
-### Solution: Atala PRISM
