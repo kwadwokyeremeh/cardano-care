@@ -13,8 +13,8 @@ The team, after missing the fund 7 funding opportunity by $14,630, has decided t
  
 #### 3 - 6 Months Post Funding
 
-* Onboard one more recycling company in Accra in addition to our partner company through education and workshops.
-* Onboard 100 households & Institutions in Accra through education and workshops.
+* Onboard one more recycling company in Kumasi in addition to our partner company through education and workshops.
+* Onboard 100 households & Institutions in Kumasi through education and workshops.
 * Distribute waste separation bins to 100 households.
 * Token minting
 * MVP launch on testnet
@@ -27,7 +27,7 @@ The team, after missing the fund 7 funding opportunity by $14,630, has decided t
  
 #### 9 - 12 Months: Fund7 Grant Exhausted
 
-* Onboard 10 more recycling companies in Accra through education and workshops. 
+* Onboard 10 more recycling companies in Kumasi through education and workshops. 
 * Fiat payment gateway
 * Mobile app development
  

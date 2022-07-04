@@ -15,7 +15,7 @@ Just a few of the households & institutions have enough education about plastic 
 
 ### Solution: Educational outreach
 
-Organize educational outreach for the populace of Accra to educate them on the need for waste recycling in modern times.
+Organize educational outreach for the populace of Kumasi to educate them on the need for waste recycling in modern times.
 
 ### Problem: Uncomfortable adoption
 
